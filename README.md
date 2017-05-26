@@ -20,3 +20,9 @@
 
 ## Predicted Data:
 [![screenshot_1495809706.png](https://s19.postimg.org/4ydzflvar/screenshot_1495809706.png)](https://postimg.org/image/4lml9fd0v/)
+
+## Precision of pur Model:
+[![screenshot_1495809795.png](https://s19.postimg.org/7v5ltmqib/screenshot_1495809795.png)](https://postimg.org/image/j7i7bez73/)
+
+## Building the Model:
+[![screenshot_1495809847.png](https://s19.postimg.org/b3a36ocs3/screenshot_1495809847.png)](https://postimg.org/image/nhwv704a7/)
