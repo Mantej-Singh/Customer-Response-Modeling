@@ -1,9 +1,7 @@
 <p align="center">
-  <img src="https://postimg.org/image/o0xd2j6b3/">
+  <img src="https://s19.postimg.org/70egtut9v/screenshot_1495809310.png">
 </p>
 
-
-[![screenshot_1495809310.png](https://s19.postimg.org/70egtut9v/screenshot_1495809310.png)](https://postimg.org/image/o0xd2j6b3/)
 
 # Customer Response Modeling:
 [![screenshot_1495809198.png](https://s19.postimg.org/xwyg26c37/screenshot_1495809198.png)](https://postimg.org/image/4uk5zcptb/)
