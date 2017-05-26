@@ -6,7 +6,7 @@
 # Customer Response Modeling:
 
 <p align="center">
-  <img src="https://s19.postimg.org/xwyg26c37/screenshot_1495809198.png">
+  <img src="https://s22.postimg.org/efkxyk2xt/model.png">
 </p>
 
 
