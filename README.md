@@ -19,9 +19,9 @@
 [![screenshot_1495809613.png](https://s19.postimg.org/e4wa2w0j7/screenshot_1495809613.png)](https://postimg.org/image/yc9pv6y0f/)
 
 ## Predicted Data:
-[![screenshot_1495809706.png](https://s19.postimg.org/4ydzflvar/screenshot_1495809706.png)](https://postimg.org/image/4lml9fd0v/)
+[![predicted customers.png](https://s10.postimg.org/excp7c8ft/predicted_customers.png)](https://postimg.org/image/62buwtjn9/)
 
-## Precision of pur Model:
+## Precision of our Model:
 [![screenshot_1495809795.png](https://s19.postimg.org/7v5ltmqib/screenshot_1495809795.png)](https://postimg.org/image/j7i7bez73/)
 
 ## Building the Model:
